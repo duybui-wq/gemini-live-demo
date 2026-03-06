@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/bundled/live_audio
 3. Run the app:
    `npm run dev`
 # gemini-live-demo
+# gemini-live-demo
